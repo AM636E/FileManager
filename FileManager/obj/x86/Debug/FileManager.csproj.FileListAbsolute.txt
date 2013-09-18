@@ -1,0 +1,8 @@
+D:\GitHub\FileManager\FileManager\bin\Debug\FileManager.exe
+D:\GitHub\FileManager\FileManager\bin\Debug\FileManager.pdb
+D:\GitHub\FileManager\FileManager\obj\x86\Debug\FileManager.Properties.Resources.resources
+D:\GitHub\FileManager\FileManager\obj\x86\Debug\FileManager.csproj.GenerateResource.Cache
+D:\GitHub\FileManager\FileManager\obj\x86\Debug\FileManager.exe
+D:\GitHub\FileManager\FileManager\obj\x86\Debug\FileManager.pdb
+D:\GitHub\FileManager\FileManager\obj\x86\Debug\FileManager.FileManagerForm1.resources
+D:\GitHub\FileManager\FileManager\obj\x86\Debug\FileManager.csprojResolveAssemblyReference.cache
